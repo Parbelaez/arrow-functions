@@ -4,6 +4,10 @@
  */
 
 // Vanilla JavaScript Function
+function addTwoNumbers(a, b) {
+    // Code block
+    return a + b;
+}
 
 // Arrow Function With Parameters
 
